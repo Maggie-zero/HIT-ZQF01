@@ -17,7 +17,7 @@
       "
     >
       <div class="w-full h-100">
-        <h1 class="text-xl md:text-5xl font-bold leading-tight mt-2">AI+电动汽车驱动-充电集成系统平台</h1>
+        <h1 class="text-xl md:text-5xl font-bold leading-tight mt-2">AI+电动汽车充电集成系统平台</h1>
 
         <el-form class="mt-6" ref="form" :rules="rules" :model="formInline">
           <el-form-item prop="username">
